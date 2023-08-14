@@ -1,4 +1,4 @@
-# crossdisoder_multiscale_gmv_heterogeneity
+# crossdisorder_multiscale_gmv_heterogeneity
 
 Code and data to generate the figures in the manuscript "Regional, circuit, and network heterogeneity of brain abnormalities in psychiatric disorders"
 
